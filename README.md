@@ -1,6 +1,6 @@
 # MATH 2530 Introductory Data Science
 
-Ohio University, Spring 2022-23
+Ohio University, Spring 2023-24
 
 This `main` branch is for public postings of homework etc.
 
